@@ -59,3 +59,6 @@ typings/
 
 dotnetokta/dotnetokta.sln
 dotnetokta/Properties/launchSettings.json
+coremvcokta/.vs/
+coremvcokta/bin/
+coremvcokta/obj/
